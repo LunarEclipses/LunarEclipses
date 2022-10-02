@@ -2,7 +2,6 @@
 - 👀 I’m interested in Java, Javascript, HTML, CSS
 - 🌱 I’m currently learning Java, Javascript, Advanced CSS & Python
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me https://t.me/deutschIander
 - 🏳‍🌈 Pronouns: They/She
 
 <!---
