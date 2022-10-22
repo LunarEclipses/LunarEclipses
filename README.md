@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LunarEclipses
-- 👀 I’m interested in Java, Javascript, HTML, CSS
+- 👀 I’m interested in Java, Python, HTML, CSS
 - 🌱 I’m currently learning Java, Python
 - 💞️ I’m looking to collaborate 
-- 🏳‍🌈 Pronouns: They/She
