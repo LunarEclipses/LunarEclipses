@@ -2,3 +2,4 @@
 - 👀 I’m interested in Java, Python, HTML, CSS
 - 🌱 I’m currently learning Java, Python
 - 💞️ I’m looking to collaborate 
+- learning scala and other JVM languages but probably coding mostly in python...
